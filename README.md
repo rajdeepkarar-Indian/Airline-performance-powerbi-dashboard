@@ -21,7 +21,8 @@ This project presents an interactive Power BI dashboard designed to analyze airl
 - Data Visualization
 
 ## 📷 Dashboard Preview
-![Dashboard](Screenshot 2026-03-17 192331.png)
+<img width="1739" height="750" alt="Screenshot 2026-03-17 192331" src="https://github.com/user-attachments/assets/fb791694-2914-42cc-8731-9e6ff2918771" />
+
 
 ## 🚀 Outcome
 This dashboard helps stakeholders quickly understand performance trends and make data-driven decisions.
